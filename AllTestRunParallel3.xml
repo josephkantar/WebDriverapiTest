@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebDriver University Exercise All  Test Run" parallel="classes" thread-count="3">
+    <test verbose="2" preserve-order="true" name="WebDriver University Exercise All Test" >
+        <packages>
+            <package name="tests.ui.webDriverUniverty"></package>
+
+
+        </packages>
+    </test>
+
+
+</suite>
